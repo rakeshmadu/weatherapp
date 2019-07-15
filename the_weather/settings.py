@@ -26,7 +26,7 @@ SECRET_KEY = 'y37il1nx__q)e)0d8j07--n80s3&^kc(m78=mo4qt+)u4qe+=i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["weatherappe.herokuapp.com"]
 
 
 # Application definition
